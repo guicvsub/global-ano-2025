@@ -7,7 +7,7 @@ Este projeto tem como objetivo fornecer uma API REST para o monitoramento de foc
 
 Os dados manipulados nesta API se referem principalmente aos anos de 2023 e 2024, voltados ao registro de ocorrências de incêndio em diversas regiões. A API pode ser utilizada por sistemas de monitoramento, prefeituras, órgãos ambientais e serviços de emergência.
 
-A modelagem do projeto foi feita em **PlantUML**, permitindo que desenvolvedores compreendam rapidamente as entidades e os relacionamentos entre elas.
+
 
 ## 🔧 Tecnologias Utilizadas
 
